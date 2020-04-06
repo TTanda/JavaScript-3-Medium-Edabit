@@ -19,4 +19,7 @@ function arrayofMultiples (num,length) {
     }
     return output;
 }
-/*This came back as test passed in the check area of edabit.
+console.log(arrayofMultiples(7,5));
+console.log(arrayofMultiples(12,10));
+console.log(arrayofMultiples(17,6));
+
